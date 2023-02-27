@@ -1,0 +1,49 @@
+*{
+    font-family: 'Shantell Sans', cursive;
+}
+
+/* Navbar */
+.navbar{
+    background-color: #12263A;
+}
+.navbar-brand{
+    font-weight: bolder;
+}
+.navbar-toggler{
+    background-color: rgb(86, 88, 88);
+}
+.nav-item{
+    text-align: center;
+    color: white;
+}
+.nav-item:hover{
+    background-color: rgb(86, 88, 88) ;
+}
+.navbar-collapse hr{
+    color: white;
+}
+
+
+h2{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-weight: bold 
+}
+
+/* content */
+
+.main-content1, .main-content2, .main-content3{
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.main-content1{
+    background-color: #EEE0CB ;
+}
+
+.main-content2{
+    background-color: #985F99;
+    color: white;
+}
+.main-content3{
+    background-color: #59D2FE;
+}
